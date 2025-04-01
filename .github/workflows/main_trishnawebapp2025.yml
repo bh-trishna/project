@@ -55,4 +55,4 @@ jobs:
           app-name: 'trishnawebapp2025'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1DDB5611346D4639B2C159F578F1BFC8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B5DD01EBD6A946AE836D83F8F62ACE44 }}
